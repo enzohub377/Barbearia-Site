@@ -75,10 +75,6 @@ Enzo Miguel P. da Silva
 
 📍 Brasil
 
-📸 Preview
-
-Em breve: imagem ou GIF demonstrando o layout do site.
-
 📄 Licença
 
 Projeto livre para estudo, aprendizado e uso como referência.
